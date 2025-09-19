@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=m3tinbekar&label=Profile%20views&color=0e75b6&style=flat" alt="m3tinbekar" /> </p>
 
-- 🔭 I’m currently working on [Gameofdeal](https://gameofdeal.com/), [Hiimeet]
+- 🔭 I’m currently working on [Gameofdeal](https://gameofdeal.com/), [Hiimeet](https://hiimeet.com)
 
 - 🌱 I’m currently learning **Express Js & Prisma**
 
