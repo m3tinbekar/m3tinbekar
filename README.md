@@ -20,8 +20,6 @@ Building modern web & mobile experiences with React, React Native, Next.js and V
 
 - 🌐 Portfolio: **https://metinbekar.dev**
 
-- 🌱 I'm currently learning **Express.js & Prisma**
-
 - 💬 Ask me about **React, React Native, Next.js, Vue, Nuxt**
 
 - 📫 Reach me at **metin.bekar@hotmail.com**
